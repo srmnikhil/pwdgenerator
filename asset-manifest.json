@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pwdgenerator/static/css/main.bc6dadd7.css",
+    "main.js": "/pwdgenerator/static/js/main.e07bb432.js",
+    "index.html": "/pwdgenerator/index.html",
+    "main.bc6dadd7.css.map": "/pwdgenerator/static/css/main.bc6dadd7.css.map",
+    "main.e07bb432.js.map": "/pwdgenerator/static/js/main.e07bb432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6dadd7.css",
+    "static/js/main.e07bb432.js"
+  ]
+}
